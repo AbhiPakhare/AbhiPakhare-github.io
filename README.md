@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhiPakhare&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=AbhiPakhare&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+### Connect with me:
 
+[<img align="left" alt="Abhishek Pakhare | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!--
 **AbhiPakhare/AbhiPakhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[linkedin]: https://www.linkedin.com/in/abhishek-pakhare
