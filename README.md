@@ -7,7 +7,10 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=AbhiPakhare alt=AbhiPakhare/> </p>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=AbhiPakhare&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=AbhiPakhare&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=calm" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiPakhare&theme=calm)](https://github.com/AbhiPakhare/github-readme-stats)
+
 
 ### Connect with me:
 
