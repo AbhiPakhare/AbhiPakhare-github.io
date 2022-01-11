@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Abhishek Pakhare Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/AbhiPakhare/AbhiPakhare/blob/master/devcard.svg" width="400" alt="Abhishek Pakhare Dev Card"/></a>
 
 
 <h3> Hi there I am Abhishek Pakhare  👋 </h3>
