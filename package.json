@@ -1,0 +1,19 @@
+{
+  "name": "abhipakhare-github.io",
+  "version": "1.0.0",
+  "description": "<a href=\"https://app.daily.dev/DailyDevTips\"><img src=\"https://github.com/AbhiPakhare/AbhiPakhare/blob/main/devcard.svg\" width=\"400\" alt=\"Abhishek Pakhare Dev Card\"/></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhiPakhare/AbhiPakhare-github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhiPakhare/AbhiPakhare-github.io/issues"
+  },
+  "homepage": "https://github.com/AbhiPakhare/AbhiPakhare-github.io#readme"
+}
